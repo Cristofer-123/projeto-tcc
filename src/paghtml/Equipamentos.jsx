@@ -85,6 +85,24 @@ function Equipamentos() {
                 <img src="https://cdn.awsli.com.br/600x700/2599/2599375/produto/21647353650e4125865.jpg" alt="" />  
               
             </div>
+
+            <div className="componente">
+              <div className='campo-esquerdatxt'>
+                <h3>Protoboard</h3>
+                <a href="https://www.eletrogate.com/protoboard-400-pontos">Link Protoboard</a>
+              </div>
+                <img src="https://cdn.awsli.com.br/600x700/468/468162/produto/19414386ea97456c0c.jpg" alt="" />  
+              
+            </div>
+
+            <div className="componente">
+              <div className='campo-esquerdatxt'>
+                <h3>Botão</h3>
+                <a href="https://www.lojamekanus.com.br/MLB-943825043-kit-10-x-boto-chave-microswitch-push-button-4-pinos-arduino-_JM">Link Botão</a>
+              </div>
+                <img src="https://http2.mlstatic.com/D_NQ_NP_821413-MLB46387758284_062021-O.webp" alt="" />  
+              
+            </div>
         </section>
 
 
