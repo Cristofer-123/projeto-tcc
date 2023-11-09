@@ -1,0 +1,76 @@
+@import url('./../Geral.css');
+
+body {
+    background: var(--Light-Blue);
+    color: var(--White);
+}
+
+#titulo {
+    text-align: center;
+    margin: 2vw 0vw;
+    font-size: 3vw;
+}
+
+.texto {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    width: 85vw;
+    font-size: 1.25vw;
+}
+
+.lista {
+    margin-top: 2vw;
+}
+
+.parte1{
+    display: flex;
+    text-align: justify;
+    gap: 10vw;
+    justify-content: center;
+}
+
+.parte1 li{
+    background: var(--Dark-Blue);
+    padding: 1vw;
+    box-shadow: 1vw 1vw var(--Shadow);
+    width: 20vw;
+}
+
+.parte2{
+    margin-top: 4vw;
+    display: flex;
+    text-align: justify;
+    gap: 10vw;
+    justify-content: center;
+}
+
+.parte2 li {
+    background: var(--Dark-Blue);
+    padding: 1vw;
+    box-shadow: 1vw 1vw var(--Shadow);
+    width: 20vw;
+}
+
+.imgs {
+    margin-top: 4vw;
+    display: flex;
+    gap: 5vw;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.imgs img {
+    width: 25vw;
+}
+
+iframe {
+    width: 50vw;
+    height: 25vw;
+    margin-top: 5vw;
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+}

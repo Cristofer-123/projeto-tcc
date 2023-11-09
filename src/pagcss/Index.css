@@ -1,0 +1,92 @@
+@import url('./../Geral.css');
+
+/* Objetivo */
+
+
+#objetivo {
+  background-image: url(./../imgs/objetivo.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+  width: 100vw;
+}
+
+#objetivo h1 {
+  font-size: 7vw;
+}
+
+#texto_obj {
+  display: table-cell;
+  vertical-align: middle;
+  width: 45vw;
+  display: flex;
+  flex-direction: column;
+  padding-top: 5vw;
+  padding-bottom: 3vw;
+  margin-left: 3vw;
+  padding-left: 1vw;
+  text-align: justify;
+  font-size: 2vw;
+}
+
+#texto_obj h1 {
+  margin-bottom: 2vw;
+}
+
+
+/* Integrantes */
+
+#integrante {
+  background: var(--Light-Blue);
+  color: var(--White);
+}
+
+.titulo-integrante {
+  display: flex;
+  justify-content: center;
+  padding: 2vw 0rem;
+  font-size: 3vw;
+}
+
+.todos {
+  display: flex;
+  justify-content: space-between;
+  width: 80vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.todos div {
+  margin-bottom: 2vw;
+  /* border: 0.15rem solid liner-gradient(var(--Light-Blue), var(--White)); */
+  border-radius: 1rem;
+  background: var(--Dark-Blue);
+  color: var(--White);
+  width: 20vw;
+  box-shadow: 1vw 1vw var(--Shadow);
+  padding: 1vw;
+  text-align: justify;
+  font-size: 1.2vw;
+}
+
+.todos div img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.todos img {
+  width: 15vw;
+  height: 18vw;
+  margin-bottom: 1vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3vw;
+}
+
+.quadrados {
+  gap: .5vw;
+  display: flex;
+  flex-direction: column;
+}
