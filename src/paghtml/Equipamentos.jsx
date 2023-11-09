@@ -70,10 +70,19 @@ function Equipamentos() {
 
             <div className="componente">
               <div className='campo-esquerdatxt'>
-                <h3>Bateria 9v</h3>
-                <a href="https://www.amazon.com.br/Bateria-Alcalina-Duracell-1003640-Cinza/dp/B00163G2DO/ref=asc_df_B00163G2DO/?tag=googleshopp00-20&linkCode=df0&hvadid=379794911936&hvpos=&hvnetw=g&hvrand=12155871277242760544&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-434762752503&psc=1">Link Bateria 9v</a>
+                <h3>LCD</h3>
+                <a href="https://www.eletrogate.com/display-lcd-16x2-i2c-backlight-azul">Link LCD</a>
               </div>
-                <img src="https://m.media-amazon.com/images/I/61uZViEb+HL._AC_SX679_.jpg" alt="" />  
+                <img src="https://cdn.awsli.com.br/600x700/468/468162/produto/19414150/display-lcd-16x2-i2c-backlight-azul-7ff37942.jpg" alt="" />  
+              
+            </div>
+
+            <div className="componente">
+              <div className='campo-esquerdatxt'>
+                <h3>Buzzer</h3>
+                <a href="https://www.arducore.com.br/buzzer-5v">Link Buzzer</a>
+              </div>
+                <img src="https://cdn.awsli.com.br/600x700/2599/2599375/produto/21647353650e4125865.jpg" alt="" />  
               
             </div>
         </section>
