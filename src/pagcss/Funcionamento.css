@@ -16,7 +16,8 @@ body {
     margin-right: auto;
     text-align: justify;
     width: 85vw;
-    font-size: 1.25vw;
+    /*mudei aqui */
+    font-size: 1.7vw;
 }
 
 .lista {
