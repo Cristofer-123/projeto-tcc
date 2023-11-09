@@ -4,7 +4,8 @@
     display: flex;
     justify-content: space-around;
     background: var(--Dark-Blue);
-    padding: 2vw;
+    /*mudei aqui */
+    padding: 8vw;
     margin-left: 2vw;
     margin-right: 2vw;
     text-align: justify;
@@ -14,7 +15,8 @@
     align-items: center;
     justify-content: center;
     width: 70vw;
-    gap: 5vw;
+    /*mudei aqui */
+    gap: 4vw;
     margin: auto;
     margin-bottom: 10vw;
 }
@@ -30,12 +32,14 @@
 
 .imagem img{
     width: 30vw;
-    margin-right: 0.8rem;
+    /*mudei aqui */
+   /* margin-right: 0.8rem;*/
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .textoo {
-    font-size: 1.5vw;
+    /*mudei aqui */
+    font-size: 2.4vw;
 }
