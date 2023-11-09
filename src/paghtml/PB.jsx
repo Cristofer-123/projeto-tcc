@@ -30,8 +30,8 @@ function PB() {
           <h1>BIBLIOGRAFIA</h1>
           <div className="lik">
           <a href="https://www.techtudo.com.br/noticias/2011/05/top-10-despertadores-diferentes-para-voce-acordar.ghtml">Ideias de despertadores</a>
-          <a href="https://www.figma.com/exit?url=https%3A%2F%2Fvisao.sapo.pt%2Fatualidade%2Fsociedade%2F2016-02-27-despertadores-originais-para-quem-tem-dificuldade-em-acordar%2F">Nosso Figma</a>
-          <a href="http://luciliadiniz.com/despertar-na-correria/">Ideia do nosso projeto</a>
+          <a href="https://www.figma.com/exit?url=https%3A%2F%2Fvisao.sapo.pt%2Fatualidade%2Fsociedade%2F2016-02-27-despertadores-originais-para-quem-tem-dificuldade-em-acordar%2F">Link QR-code</a>
+          <a href="qrco.de/beX1G1">Link do QR-Code</a>
           </div>
         </section>
       </main>
