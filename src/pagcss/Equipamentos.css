@@ -26,11 +26,13 @@ h3 {
 
 .componente {
     background-color:var(--Dark-Blue);
-    padding: 1vw;
+    /*mudei aqui */
+    padding: 3vw;
     display: flex;
     flex-direction: column;
     margin-right: 1vw;
-    margin-top: 1vw;
+    /*mudei aqui */
+    margin-top: 5vw;
     border-radius: 0.5vw;
 }
 
