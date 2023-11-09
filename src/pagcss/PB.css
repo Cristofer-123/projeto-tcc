@@ -16,7 +16,8 @@ h1{
     align-items: center;
     background: var(--Dark-Blue);
     margin: 1vw;
-    border-radius: 0.5vw;
+    /*mudei aqui */
+    border-radius: 1vw;
     width: 80vw;
     margin: auto;
     margin: 6vw auto;
@@ -27,26 +28,33 @@ h1{
     justify-content: center;
     align-items: center;
     text-align: justify;
-    font-size: 1.4vw;
+    /*mudei aqui */
+    font-size: 2.5vw;
 }
 
 .lik {
     display: flex;
     justify-content: space-around;
     background: var(--Dark-Blue);
-    margin: 1vw;
+    /*mudei aqui */
+    margin: 10vw;
+    /*mudei aqui */
+    padding: 2vw;
     border-radius: 0.5vw;  
     font-size: 1.8vw;
 }
 
 p {
-    margin: 2vw;
+    /*mudei aqui */
+    margin: 3vw;
 }
 
 figure {
-    margin: 2vw;
+    /*mudei aqui */
+    margin: 5vw;
 }
 
 .container figure img {
-    width: 40vw;
+    /*mudei aqui */
+    width: 45vw;
 }
